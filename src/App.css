@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.ui.card:first-child{
+  margin-top: 1em;
+}
